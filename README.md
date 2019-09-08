@@ -13,5 +13,12 @@ A simple wrapper from `nekopoi` and to your `"jonnie"` :3
 
 for detail read [test file](test.py)
 
+## Usage
+### Installing
+`pip3 install -r requirements.txt`
+
+### Run
+`python3 test.py`
+
 ## Author
 Dyseo / [@Dyseo](instagram.com/alnyz69)
