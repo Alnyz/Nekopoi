@@ -3,6 +3,10 @@ from neko import Nekopoi
 poi = Nekopoi(headers={"User-Agent": 'Nekopoi/1.69'})
 #Initialize Nekopoi instance
 
+#search
+search = poi.search(query='hime sama', page=1)
+print(search)
+
 #search hentai
 hentai = poi.hentai(page=1)
 print(hentai)
