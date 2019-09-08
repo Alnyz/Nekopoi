@@ -10,6 +10,7 @@ A simple wrapper from `nekopoi` and to your `"jonnie"` :3
 - [x] Search category cosplay
 - [x] Get detail (`automatically` or `manually`) from url
 - [x] Download video
+- [ ] More? soon
 
 for detail read [test file](test.py)
 
